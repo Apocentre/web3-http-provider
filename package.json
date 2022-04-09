@@ -1,6 +1,6 @@
 {
   "name": "web3-retry-http-provider",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "lib/index.js",
   "repository": "git@github.com:Apocentre/web3-retry-http-provider.git",
   "author": "ppoliani <ppoliani@gmail.com>",
