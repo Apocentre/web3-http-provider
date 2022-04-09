@@ -1,6 +1,6 @@
 {
   "name": "web3-retry-http-provider",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "main": "lib/index.js",
   "repository": "git@github.com:Apocentre/web3-retry-http-provider.git",
   "author": "ppoliani <ppoliani@gmail.com>",
@@ -11,6 +11,7 @@
     "web3.js"
   ],
   "dependencies": {
+    "lodash.throttle": "^4.1.1",
     "web3-core-helpers": "1.6.1",
     "xhr2-cookies": "1.1.0"
   }
